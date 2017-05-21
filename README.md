@@ -81,6 +81,12 @@ Describe any challenges encountered while building the app.
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
 
+## Video Link 
+
+<video src="https://codepath.slack.com/files/gbajaj/F5G6L2YLD/20170509003206-832258f5a6._gif-2-mp4.com_.mp4" width="1120" height="862" controls preload>
+</video>
+
+
 ## License
 
     Copyright [2017] [Gaurav Bajaj, Dhwani Shah, Ankit Jasuja]
